@@ -28,13 +28,5 @@ Ao final do jogo, o sistema mostra:
 - Feedback final
 - Botão para reiniciar o jogo
 
----
-
-## Como executar
-
-1. Baixe os arquivos do projeto
-2. Abra a pasta do projeto
-3. Execute o arquivo:
-
 ```bash
 index.html
