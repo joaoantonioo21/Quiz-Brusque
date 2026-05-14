@@ -18,13 +18,6 @@ Ao final do jogo, o sistema mostra:
 
 ---
 
-## Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-
----
 
 ## Funcionalidades
 
