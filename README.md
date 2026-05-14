@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-O Quiz Brusque é um jogo educativo desenvolvido em HTML, CSS e JavaScript com o objetivo de ensinar curiosidades sobre a cidade de Brusque de forma interativa e divertida.
+Esse projeto é um jogo educativo desenvolvido em HTML, CSS e JavaScript com o objetivo de ensinar curiosidades sobre a cidade de Brusque de forma interativa e divertida.
 
 O jogador inicia preenchendo:
 - nome
@@ -27,6 +27,18 @@ Ao final do jogo, o sistema mostra:
 - Contagem de pontuação
 - Feedback final
 - Botão para reiniciar o jogo
+
+  ---
+
+
+## Equipe
+
+-  Celso Carlos Emydio da Silva Neto
+-  João Antônio Wilamoski Elias
+-  Nicolas Dell'Agnolo Barni
+-  Vinícius Armando Zuchi
+
+
 
 ```bash
 index.html
